@@ -40,10 +40,11 @@ Projekt wykorzystuje modele **YOLOv8** (Small i Nano) do detekcji tablic rejestr
 <img width="1790" height="534" alt="image" src="https://github.com/user-attachments/assets/a918cdc7-48ab-41dd-8235-47b936f78234" />
 
 **Aplikacja mobilna**
+
+
 <img width="273" height="503" alt="Zrzut ekranu 2025-11-20 o 21 12 21" src="https://github.com/user-attachments/assets/3d5d56bb-799f-410c-81c4-7daa4aa6acb1" />
 
 <img width="271" height="527" alt="Zrzut ekranu 2025-11-20 o 21 24 21" src="https://github.com/user-attachments/assets/307a07b0-88b1-4a8b-9c46-099869c439c7" />
-
 
 <img width="269" height="594" alt="Zrzut ekranu 2025-11-20 o 21 12 45" src="https://github.com/user-attachments/assets/791b279e-ecda-4fae-8d73-00c93f17fe0f" />
 
