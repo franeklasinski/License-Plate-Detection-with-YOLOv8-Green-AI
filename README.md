@@ -1,4 +1,4 @@
-# 🚗 Detekcja Tablic Rejestracyjnych z YOLOv8 + OCR
+# 🚗 Detekcja Tablic Rejestracyjnych z YOLOv8 + OCR + APLIKACJA MOBILNA 
 
 Projekt wykorzystuje modele **YOLOv8** (Small i Nano) do detekcji tablic rejestracyjnych na zdjęciach i filmach, wraz z rozpoznawaniem tekstu za pomocą **EasyOCR**. Dodatkowo analizujemy wpływ treningu na środowisko przy użyciu **CodeCarbon**.
 
@@ -28,4 +28,9 @@ Projekt wykorzystuje modele **YOLOv8** (Small i Nano) do detekcji tablic rejestr
 ✅ **Porównanie modeli** - YOLOv8s vs YOLOv8n (metryki, emisje, wydajność)  
 
 ---
+
+<img width="461" height="389" alt="Zrzut ekranu 2025-11-6 o 21 40 51" src="https://github.com/user-attachments/assets/abc6e1b5-e71b-4430-a6f8-3d2750495314" />
+
+<img width="259" height="310" alt="Zrzut ekranu 2025-11-26 o 12 57 56" src="https://github.com/user-attachments/assets/f410cc6b-51b1-4367-b20e-ce2ec68e59de" />
+
 Projekt wykonany z pomocą Github Copilot , Franciszek Łasiński 
