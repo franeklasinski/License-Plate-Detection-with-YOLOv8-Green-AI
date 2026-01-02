@@ -25,7 +25,9 @@ Projekt wykorzystuje modele **YOLOv8** (Small i Nano) do detekcji tablic rejestr
 ✅ **Wideo processing** - Przetwarzanie filmów z wykrywaniem tablic w czasie rzeczywistym  
 ✅ **Green AI** - Monitorowanie emisji CO2 (CodeCarbon)  
 ✅ **XAI** - Heatmapy aktywacji (pokazują co model "widzi")  
-✅ **Porównanie modeli** - YOLOv8s vs YOLOv8n (metryki, emisje, wydajność)  
+✅ **Porównanie modeli** - YOLOv8s vs YOLOv8n (metryki, emisje, wydajność)
+✅ **Aplikacja mobilna** - aplikacja działająca wrzucone pliki java. 
+
 
 ---
 
