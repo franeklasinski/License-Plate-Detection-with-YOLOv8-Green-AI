@@ -48,5 +48,4 @@ Projekt wykorzystuje modele **YOLOv8** (Small i Nano) do detekcji tablic rejestr
 
 <img width="269" height="594" alt="Zrzut ekranu 2025-11-20 o 21 12 45" src="https://github.com/user-attachments/assets/791b279e-ecda-4fae-8d73-00c93f17fe0f" />
 
-
-Projekt wykonany z pomocą Github Copilot , Franciszek Łasiński 
+ Franciszek Łasiński 
